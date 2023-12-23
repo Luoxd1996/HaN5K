@@ -1,5 +1,5 @@
 # <div align=center>HaN5K (data and labels are ready, looking for collaborators and funding support)</div>
-*** <div align=center>HaN5K: A project to develop foundation models for structure delineation in head and neck radiotherapy based on more than 5K CT scans and 10K clinical volumetric organs</div>
+## <div align=center>HaN5K: A project to develop foundation models for structure delineation in head and neck radiotherapy based on more than 5K CT scans and 10K clinical volumetric organs</div>
 
 * This repo provides a very large-scale dataset (more than 5k 3D CT volumes with more than 45 organs-at-risk) for automatic head and neck structure segmentation from contrast-enhanced or no-contrast radiotherapy CT scans.
  
