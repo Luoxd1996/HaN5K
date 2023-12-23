@@ -27,6 +27,7 @@ In addition, this work is still ongoing, the dataset will be extended to larger 
 * This project and dataset were designed for **open-available** academic research, **not** for clinical, commercial or other use. In addition, if you used it for your academic research, you are encouraged to release the code and the pre-trained model.
 
 # Citation
+It would be highly appreciated if you cite the following papers when using the pseudo-label:
 ```
 @article{luo2023segrap2023,
   title={SegRap2023: A Benchmark of Organs-at-Risk and Gross Tumor Volume Segmentation for Radiotherapy Planning of Nasopharyngeal Carcinoma},
