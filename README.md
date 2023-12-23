@@ -10,7 +10,7 @@
 
 # DataSet
 * Firstly, the raw CT dataset can be downloaded from [RADCURE](https://www.cancerimagingarchive.net/collection/radcure/) after accessing the permissions.
-* Then, please contact Xiangde (luoxd1996 AT gmail DOT com) for the pseudo-label. Two steps are needed to download and access the pseudo-label: **1) using your google email to apply for the download permission ([Goole Driven](), [BaiduPan]())**; **2) using your affiliation email to get the unzip password/BaiduPan access code**. We will get back to you within **two days**, **so please don't send them multiple times**. We just handle the **real-name email** and **your email suffix must match your affiliation**. The email should contain the following information:
+* Then, please contact Xiangde (luoxd1996 AT gmail DOT com) for the pseudo-label. Two steps are needed to download and access the pseudo-label: **1) using your google email to apply for the download permission ([Goole Driven](https://drive.google.com/file/d/1eQNk3dKaCDEfRYyDsR-cPTDyUrJlGrT4/view?usp=sharing), [BaiduPan](https://pan.baidu.com/s/1kJNjJ7s2svh9KK-94FY4HA?pwd=2023))**; **2) using your affiliation email to get the unzip password/BaiduPan access code**. We will get back to you within **two days**, **so please don't send them multiple times**. We just handle the **real-name email** and **your email suffix must match your affiliation**. The email should contain the following information:
 
 ```
     Name/Homepage/Google Scholar: (Tell us who you are.)
