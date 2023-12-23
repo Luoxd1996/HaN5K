@@ -1,6 +1,7 @@
 # <div align=center>HaN5K (data and labels are ready, looking for collaborators and funding support)</div>
-## <div align=center>HaN5K: A project to develop foundation models for structure delineation in head and neck radiotherapy based on more than 5K CT scans and 10K clinical volumetric organs</div>
+<div align=center>HaN5K: A project to develop foundation models for structure delineation in head and neck radiotherapy based on 5K CT scans and 10K clinical volumetric organs</div>
 
+# Details
 * This repo provides a very large-scale dataset (more than 5k 3D CT volumes with more than 45 organs-at-risk) for automatic head and neck structure segmentation from contrast-enhanced or no-contrast radiotherapy CT scans.
  
 * In the recent stage, we have collected 2000+ patients' CT scans and clinical radiotherapy planning structures (more than 10k+ 3D organ annotations). Then, we trained a nnUNet through partial label learning using the above image and labels to produce pseudo labels for the largest-scale publicly available head and neck cancer dataset ([RADCURE](https://www.cancerimagingarchive.net/collection/radcure/)). The clinical assessment results have shown the automatic delineation is clinically applicable with no and minor revisions for low-risk and several high-risk structures. Recently, the foundational model with massive labelled data has achieved very encouraging results in many natural and medical fields. But for head and neck structure segmentation, the progress is still slow, maybe due to a lack of high-quality data. Here, we first released the pseudo labels of [RADCURE](https://www.cancerimagingarchive.net/collection/radcure/) dataset to boost this topic research, where 3346 CT volumes and 49 structures can be downloaded now.
