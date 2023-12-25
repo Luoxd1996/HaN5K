@@ -1,4 +1,4 @@
-# <div align=center>HaN5K (data and labels are ready, looking for collaborators and funding support)</div>
+# <div align=center>HaN5K (data and labels are ready, looking for collaborators and GPU support)</div>
 <div align=center>HaN5K: A project to develop foundation models for structure delineation in head and neck radiotherapy based on 5K CT scans and 10K clinical volumetric organs</div>
 
 # Details
