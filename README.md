@@ -19,7 +19,7 @@
     Primary Affiliation: (The name of your institution or university, etc.)
     Job Title: (E.g., Professor, Associate Professor, Ph.D., etc.)
     Affiliation Email: (the password will be sent to this email, we just reply to the email which is the end of "edu".)
-    How to use: (Only for academic research, not for commercial use or second-development.)
+    How to use: (Only for academic research, not for commercial use or clinical application development.)
 ```
     
 In addition, this work is still ongoing, the dataset will be extended to larger and more diverse (more patients, more organs, and more modalities, more clinical hospitals' data and MR Images will be considered to include future), any **suggestion**, **comment**, **collaboration**, and **GPUs sponsor** are welcome. 
