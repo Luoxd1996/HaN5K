@@ -1,4 +1,4 @@
-# <div align=center>HaN5K (data and labels are ready, looking for collaborators and funding support)</div>
+                           # <div align=center>HaN5K (data and labels are ready, looking for collaborators and funding support)</div>
 <div align=center>HaN5K: A project to develop foundation models for structure delineation in head and neck radiotherapy based on 5K CT scans and 10K clinical volumetric organs</div>
 
 # Details
@@ -10,7 +10,7 @@
 
 * OARs names: 'Aorta', 'BrachialPlex_L', 'BrachialPlex_R', 'BronchialTree', 'Cochlea_L', 'Cochlea_R', 'ETbone_L', 'ETbone_R', 'Hippocampus_L', 'Hippocampus_R', 'IAC_L', 'IAC_R', 'Larynx', 'Mastoid_L', 'Mastoid_R', 'OralCavity', 'Submandibular_L', 'Submandibular_R', 'Thyroid', 'TympanicCavity_L', 'TympanicCavity_R', 'VestibulSemi_L', 'VestibulSemi_R', "EyeL", "EyeR", "LenL", "LenR", "OpticNerveL", "OpticNerveR", "OpticChiasm", "Pituitary", "BrainStem", "TemporalLobe_L", "TemporalLobe_R", "Cord_HaN", "ParotidL", "ParotidR", "MiddleEar_L", "MiddleEar_R", "TMJL", "TMJR", "MandibleL", "MandibleR", "Esophagus_HaN", "Trachea_HaN", "OralCavity_no_Gum", 'PharynxConst_S', 'PharynxConst_M', 'PharynxConst_I', Brain. Details can be found [here](https://segrap2023.grand-challenge.org/dataset/)                                      
 
-* Pre-trained models based on our collected dataset can be downloaded here (Goole Driven](https://drive.google.com/file/d/1RRbM9ZuSbIUpvqJdC7v01FfAiP4eDJpM/view?usp=drive_link), [BaiduPan](https://pan.baidu.com/s/1kNaabCcZsnIRwYMV9Iw3gQ?pwd=uu2f)). These models were based on [nnUNetV1](https://github.com/MIC-DKFZ/nnUNet/tree/nnunetv1). Quick inference shell ```CUDA_VISIBLE_DEVICES=XXX nnUNet_predict -i "image_folder_path" -o "predict_folder_path" -t 301/302 -m 3d_fullres -f all --disable_tta```.
+* Pre-trained models based on our collected dataset can be downloaded here ([Goole Driven](https://drive.google.com/file/d/1RRbM9ZuSbIUpvqJdC7v01FfAiP4eDJpM/view?usp=drive_link), [BaiduPan](https://pan.baidu.com/s/1kNaabCcZsnIRwYMV9Iw3gQ?pwd=uu2f)). These models were based on [nnUNetV1](https://github.com/MIC-DKFZ/nnUNet/tree/nnunetv1). Quick inference shell ```CUDA_VISIBLE_DEVICES=XXX nnUNet_predict -i "image_folder_path" -o "predict_folder_path" -t 301/302 -m 3d_fullres -f all --disable_tta```.
   
 # DataSet
 * Firstly, the raw dataset can be downloaded from [RADCURE](https://www.cancerimagingarchive.net/collection/radcure/) after accessing the download permission.
